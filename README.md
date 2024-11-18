@@ -24,7 +24,7 @@ cd palmetto-weather
 ```
 ### 2. Build the Docker Containers
 
-To build the application containers, navigate to the folder containing the `docker-compose.yml` file and run:
+To build the application containers, navigate to the palmetto-weather-container folder containing the `docker-compose.yml` file and run:
 
 ```bash
 docker-compose build
