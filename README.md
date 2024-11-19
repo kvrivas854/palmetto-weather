@@ -57,7 +57,7 @@ To view the Palmetto Weather App:
 
 You should see the application running.
 
-Feel free to reach out with any questions or concerns @kellyv.rivas@gmail.com
+Feel free to reach out with any questions or concerns to my email: kellyv.rivas@gmail.com
 
 Feliz coding!
 
