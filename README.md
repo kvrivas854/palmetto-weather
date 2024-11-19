@@ -15,7 +15,7 @@ Ensure you have the following installed:
 ## Setup Instructions
 
 ### 1. Clone the main Repository
-Clone this repository to your local machine and navigate to the project directory.
+Clone this repository to your local machine and navigate to the working directory.
 
 ```bash
 git clone <repository-url>
@@ -31,7 +31,7 @@ cd palmetto-weather-app
 git clone https://github.com/kvrivas854/palmetto-weather-app.git .
 npm install
 ```
-### 1. Clone the Frontend Repository
+### 3. Clone the Backend Repository
 
 Navigate to the `palmetto-weather-app` directory and clone the frontend repository:
 
