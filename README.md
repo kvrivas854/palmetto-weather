@@ -14,7 +14,7 @@ Ensure you have the following installed:
 
 ## Setup Instructions
 
-### 1. Clone the Repository
+### 1. Clone the main Repository
 Clone this repository to your local machine and navigate to the project directory.
 
 ```bash
@@ -22,7 +22,25 @@ git clone <repository-url>
 cd palmetto-weather
 
 ```
-### 2. Build the Docker Containers
+### 2. Clone the Frontend Repository
+
+Navigate to the `palmetto-weather-app` directory and clone the frontend repository:
+
+```bash
+cd palmetto-weather-app
+git clone https://github.com/kvrivas854/palmetto-weather-app.git .
+npm install
+```
+### 1. Clone the Frontend Repository
+
+Navigate to the `palmetto-weather-app` directory and clone the frontend repository:
+
+```bash
+cd ../weather-api
+git clone https://github.com/kvrivas854/weather-api.git .
+npm install
+```
+### 4. Build the Docker Containers
 
 To build the application containers, navigate to the palmetto-weather-container folder containing the `docker-compose.yml` file and run:
 
