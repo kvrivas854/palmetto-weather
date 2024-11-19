@@ -1,6 +1,6 @@
 # Palmetto Weather App
 
-This repository contains a monorepo for the **Palmetto Weather App**, a weather application built using React and NestJS. The app is containerized with Docker for simplified deployment.
+This repository contains the **Palmetto Weather App**, a weather application built using React and NestJS. The app is containerized with Docker for simplified deployment.
 
 ## Prerequisites
 
