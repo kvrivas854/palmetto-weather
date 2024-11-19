@@ -48,7 +48,16 @@ To build the application containers, navigate to the palmetto-weather-container 
 cd palmetto-weather-container
 docker-compose build
 docker-compose up
+```
+## Viewing the Application
 
+To view the Palmetto Weather App:
+1. Open your browser.
+2. Visit `http://localhost:3000`.
 
+You should see the application running.
 
+Feel free to reach out with any questions or concerns @kellyv.rivas@gmail.com
+
+Feliz coding!
 
